@@ -9,4 +9,4 @@ Hello this is the testing of git command.
 8. checking branch: git branch 
 9. switching branch: git checkout branch-name 
 10. directly creating branch: git checkout -b swarup/branch-name.
-
+11. merging sub-branch to parent branch: git merge swarup/sum.
